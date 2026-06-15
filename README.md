@@ -12,3 +12,4 @@ We examine whether new risky assets can expand investment opportunities for othe
 
 The structure of this paper is as follows. Chapter2 reviews the papers examining the characteristics of Bitcoin by comparing cryptocurrency and gold, and papers examining the addition of new assets in investment portfolio theory. Chapter 3 explains the methodology used by Huberman and Kandel (1987) to compare the possibility of investment expansion when Bitcoin is included in the portfolio. Chapter 4 describes the results of empirical analysis. Chapter 5 presents a summary and conclusion  
 
+* [Impact of Covid-19 on Cryptocurrency (PDF)](./report/SRP_taekyoung_park.pdf)
