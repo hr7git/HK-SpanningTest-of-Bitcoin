@@ -1,3 +1,5 @@
+* [Impact of Covid-19 on Cryptocurrency (PDF)](./report/SRP_taekyoung_park.pdf)
+
 Introduction
 
 Bitcoin is a decentralized digital money based on blockchain technology. It was born out of the need to maintain an objective currency value, independent of government control. Since the global financial crisis (2008), each country has increased money supply called Quantitative Easing (QE), and the rapid increase in fiat money has caused strong distrust of the government's monetary control and concerns about inflation. Therefore, the need for a new currency that is independent from the government's supply and cannot be issued infinitely increased, and Nakamoto (2009) created the cryptocurrency Bitcoin. Unfortunately, since the covid-19 pandemic in 2020, Quantitative Easing (QE) has led to currency depreciation and increased expectation for Bitcoin. Recently, the value of Bitcoin has risen sharply incomparably with the previous period.
@@ -11,5 +13,3 @@ Then, could these other characteristics make Bitcoin a completely different asse
 We examine whether new risky assets can expand investment opportunities for other sets of risky assets, and examine that when investors choose a portfolio based on mean-variance analysis, they can expand minimum-variance boundaries in a given set of risky assets (Huberman and Kandel, 1987).
 
 The structure of this paper is as follows. Chapter2 reviews the papers examining the characteristics of Bitcoin by comparing cryptocurrency and gold, and papers examining the addition of new assets in investment portfolio theory. Chapter 3 explains the methodology used by Huberman and Kandel (1987) to compare the possibility of investment expansion when Bitcoin is included in the portfolio. Chapter 4 describes the results of empirical analysis. Chapter 5 presents a summary and conclusion  
-
-* [Impact of Covid-19 on Cryptocurrency (PDF)](./report/SRP_taekyoung_park.pdf)
